@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servlet>
+    <servlet-name>editprofile</servlet-name>
+    <servlet-class>editprofile</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>editprofile</servlet-name>
+    <url-pattern>/editprofile</url-pattern>
+</servlet-mapping>

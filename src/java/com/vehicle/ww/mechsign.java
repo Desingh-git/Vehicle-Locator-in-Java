@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Sathiyamoorthi A
+ * @author desingh
  */
 @WebServlet(name = "mechsign", urlPatterns = {"/mechsign"})
 public class mechsign extends HttpServlet {
